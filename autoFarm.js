@@ -30,7 +30,7 @@ const farmPoints = async ( userInfo ) => {
 	console.log( JSON.stringify( rewards ) );
 	console.log('[BING]', 'Beginning searches.')
 
-	await runSearches( page , 90/3); // 90 points max / 3 points per page
+	await runSearches( page , (90/3) + 4); // 90 points max / 3 points per page  + 4 because some point don't get count
 
 	await switchToMobile( page );
 	await runSearches(page, 60/3); // 60 points max / 3 points per page
