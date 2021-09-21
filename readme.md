@@ -6,8 +6,8 @@
 
 ## Installation:
 
-1 - Rename the `settings.json.example` file to `settings.json` and provide your Microsoft account information to the `accounts` section. 
-    You can put reward goals, if you want to the `rewards` section. 
+1 - Rename the `settings.json.example` file to `settings.json` and provide your Microsoft account information to the `accounts` section.
+You can put reward goals, if you want to the `rewards` section. 
 
 This should look like:
 
