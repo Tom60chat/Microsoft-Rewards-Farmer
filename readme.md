@@ -1,5 +1,9 @@
 # Microsoft Rewards Points Farmer
 
+## Deprecated:
+Working on a new solution (More faster, easier and can do more)
+[Microsoft Rewards Farmer#](https://github.com/Tom60chat/Microsoft-Rewards-Farmer-Sharp)
+
 ## Dependencies:
 
  - [Google Chrome](https://www.google.fr/chrome/)
